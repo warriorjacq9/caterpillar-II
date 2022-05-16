@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Version=2.0
+Name=Caterpillar II
+Icon=/usr/local/icons/hicolor/64x64/apps/caterpillarII.png
+Exec=/usr/bin/caterpillarII
+Terminal=false
+Comment=A game based off of the original Caterpillar, or Nybbles, game.

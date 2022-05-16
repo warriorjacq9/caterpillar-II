@@ -1,0 +1,8 @@
+Package: Caterpillar-II
+Version: 2.0
+Architecture: amd64
+Maintainer: warriorjacq9 <jackflusche@gmail.com>
+Depends: libc6
+Installed-Size: 30
+Homepage: None
+Description: An online revision of the popular caterpillar or nybbles game

@@ -1,0 +1,65 @@
+[01;34m.[00m
+├── [01;32mcaterpillarII[00m
+├── [01;34mpkg[00m
+│   ├── [01;34mcaterpillar-II_2.0-1_amd64[00m
+│   │   ├── [01;34mDEBIAN[00m
+│   │   │   └── control
+│   │   └── [01;34musr[00m
+│   │       ├── [01;34mbin[00m
+│   │       │   ├── [01;32mcaterpillar-II[00m
+│   │       │   └── [40;31;01mcaterpillarII[00m -> [00mpkg/caterpillar-II_2.0-1_amd64/usr/bin/caterpillar-II/caterpillarII[00m
+│   │       ├── [01;34mlib[00m
+│   │       │   └── [01;34mpython3.7[00m
+│   │       │       ├── pack.py
+│   │       │       └── unpack.py
+│   │       ├── [01;34mlocal[00m
+│   │       │   └── [01;34micons[00m
+│   │       │       └── [01;34mhicolor[00m
+│   │       │           └── [01;34m64x64[00m
+│   │       │               └── [01;34mapps[00m
+│   │       │                   └── [01;35mcaterpillarII.png[00m
+│   │       └── [01;34mshare[00m
+│   │           └── [01;34mapplications[00m
+│   │               └── caterpillar-II.desktop
+│   └── [01;31mcaterpillar-II_2.0-1_amd64.deb[00m
+├── [01;34msource[00m
+│   ├── [01;34mbuild[00m
+│   │   ├── [01;34mcaterpillar-II[00m
+│   │   └── [01;34mcaterpillarII[00m
+│   │       ├── Analysis-00.toc
+│   │       ├── [01;31mbase_library.zip[00m
+│   │       ├── caterpillarII
+│   │       ├── caterpillarII.pkg
+│   │       ├── COLLECT-00.toc
+│   │       ├── EXE-00.toc
+│   │       ├── [01;34mlocalpycos[00m
+│   │       │   └── struct.pyo
+│   │       ├── PKG-00.toc
+│   │       ├── PYZ-00.pyz
+│   │       ├── PYZ-00.toc
+│   │       ├── Tree-00.toc
+│   │       ├── Tree-01.toc
+│   │       ├── warn-caterpillarII.txt
+│   │       └── xref-caterpillarII.html
+│   ├── [01;32mcaterpillarII.py[00m
+│   ├── caterpillar-II.spec
+│   ├── caterpillarII.spec
+│   ├── [01;32mcompile[00m
+│   ├── [01;34mdist[00m
+│   ├── leaf.py
+│   ├── network.py
+│   ├── player.py
+│   ├── [01;34m__pycache__[00m
+│   │   ├── caterpillarII.cpython-37.pyc
+│   │   ├── caterpillar-II-p1.cpython-39.pyc
+│   │   ├── leaf.cpython-37.pyc
+│   │   ├── network.cpython-37.pyc
+│   │   ├── pack.cpython-37.pyc
+│   │   ├── player.cpython-37.pyc
+│   │   ├── settings.cpython-37.pyc
+│   │   └── unpack.cpython-37.pyc
+│   ├── [01;32mserver.py[00m
+│   └── settings.py
+└── tree
+
+21 directories, 41 files

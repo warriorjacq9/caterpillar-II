@@ -1,0 +1,6 @@
+#!/bin/bash
+
+sudo rm /usr/bin/caterpillarII
+sudo ln -s /usr/bin/caterpillarII.d/caterpillarII /usr/bin/caterpillarII
+
+sudo chmod +x /usr/bin/caterpillarII

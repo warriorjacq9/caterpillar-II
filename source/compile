@@ -1,0 +1,10 @@
+#!/bin/bash
+
+/usr/bin/python3 -m PyInstaller caterpillarII.py
+cd dist
+rm -rf ../../caterpillarII.d
+mv caterpillarII ../../caterpillarII.d
+cd ../..
+cp -r caterpillarII.d pkg/caterpillar-II_2.0-1_amd64/usr/bin/caterpillarII.d
+cd pkg
+dpkg -b caterpillar-II_2.0-1_amd64
